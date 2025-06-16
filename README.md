@@ -76,9 +76,6 @@ Example of a GET request : `http://localhost:5050/admin/user/recommendations?sim
 /user/{user_id}/recommendations
 
 
-## Deadline
-`30.4.2025 16:15`
-
 ## Team Members
 - Jakub Ďurkovič (durkojak)
 - Kryštof Jelínek (jelinkry)
